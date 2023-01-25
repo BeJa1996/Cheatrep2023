@@ -54,7 +54,3 @@ def cheat(assignment):
                      "%pip install pip-install-test  # using the iPython console")
     else:
         return print("Not yet created.")
-
-
-cheat("Q1.2P.1")
-
